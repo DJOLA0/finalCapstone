@@ -14,7 +14,11 @@ __Contents__
 
 ## Instructions for the code
 >>The user should be allowed to choose which calculation they want to do.
->If the user selects 'investment', they should choose the
+>If the user selects 'investment', the user should be asked to input:
+>>1. The amount of money that they are depositing
+>>2. The interest rate (as a percentage). Only the number should be entere not the sign(%)
+>>3. The number of years they plan on investing.
+
 >>"simple" or "compound" method.
 >>If 
 
