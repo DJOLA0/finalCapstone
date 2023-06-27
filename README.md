@@ -23,7 +23,7 @@ The user should be allowed to choose which calculation they want to do.
 >>store this in a variable called interest.
 
 If the user selects 'bond', do the following:
->> . Ask the user to input:
+>>Ask the user to input:
 >>1. The present value of the house. e.g. 100000
 >>2. The interest rate e.g. 7
 >>3. The number of months they plan to take to repay the bond e.g. 120.
