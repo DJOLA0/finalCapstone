@@ -1,4 +1,4 @@
 # finalCapstone Project
-#####Holiday cost calculator
+#######Holiday cost calculator
 
 Contents
