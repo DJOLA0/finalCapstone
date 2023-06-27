@@ -31,7 +31,7 @@ If the user selects 'bond', do the following:
 Calculate how much money the user will have to repay each month and output the answer
 
 ## Formulas
-#####All the different formulas in python to help you calculate.
+##### All the different formulas in python to help you calculate.
 *'r'* is the interest entered above divided by 100, e.g. if 8% is entered, then *'r'* is 0.08.
 *'P'* is the amount that the user deposits.
 *'t'* is the number of years that the money is being invested.
