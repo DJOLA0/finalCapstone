@@ -31,7 +31,7 @@ If the user selects 'bond', do the following:
 Calculate how much money the user will have to repay each month and output the answer
 
 ## Formulas
-##### All the different formulas in python to help you calculate.
+##### All the different formulas in python to help you calculate Investment.
 *'r'* is the interest entered above divided by 100, e.g. if 8% is entered, then *'r'* is 0.08.
 *'P'* is the amount that the user deposits.
 *'t'* is the number of years that the money is being invested.
@@ -41,6 +41,13 @@ simple interest:
 >>A = P*(1 + r*t)
 
 compound interest
->>A = P* math.pow(1+r),t)
+>>*A* = *P* * math.pow(1+*r*),t)
 
+##### All the different formulas in python to help you calculate Bond Repayment.
+*'P'* is the present value of the house
+'i' is the monthly interest rate, calculated by dividing the annual interest rate by 12
+'n' is the number of months  over which the bond will be repaid.
+
+Bond repayment formula:
+repayment = (i * *P*)/(1 - (1 + i)**(-n))
 
