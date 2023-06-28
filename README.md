@@ -38,7 +38,7 @@ Calculate how much money the user will have to repay each month and output the a
 *'A'* is the total amount once the interest has been applied.
 
 simple interest:
->>A = P*(1 + r*t)
+>>A = *P* *(1 + *r***t*)
 
 compound interest
 >>*A* = *P* * math.pow(1+*r*),t)
